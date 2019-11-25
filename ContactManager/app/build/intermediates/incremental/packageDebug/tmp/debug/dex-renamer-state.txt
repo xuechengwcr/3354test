@@ -1,0 +1,7 @@
+#Sun Nov 24 23:41:50 CST 2019
+base.0=/Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/build/intermediates/transforms/dexMerger/debug/0

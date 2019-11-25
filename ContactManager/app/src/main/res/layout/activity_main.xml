@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:gravity="center"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" >
+
+            <TextView
+                android:id="@+id/toolbar_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:text="Contacts"
+                android:textSize="20dp" />
+
+        </android.support.v7.widget.Toolbar>
+    <cn.projects.team.demo.widget.ClearEditText
+        android:layout_below="@+id/toolbar"
+        android:id="@+id/filter_edit"
+        android:paddingTop="@dimen/dp_4"
+        android:paddingBottom="@dimen/dp_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="8dp"
+        android:background="#bef9b81b"
+        android:drawableLeft="@drawable/search_bar_icon_normal"
+        android:hint="@string/pname"
+        android:maxLines="1"
+        android:textSize="15dp" />
+    <cn.projects.team.demo.widget.RecyclerViewImplementsContextMenu
+        android:id="@+id/rv"
+        android:layout_below="@+id/filter_edit"
+        android:layout_width="match_parent"
+        android:longClickable="true"
+        android:layout_height="match_parent">
+
+
+
+
+    </cn.projects.team.demo.widget.RecyclerViewImplementsContextMenu>
+
+    <com.xp.wavesidebar.SideBar
+        android:layout_below="@+id/filter_edit"
+        android:id="@+id/sideBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:chooseTextColor="@android:color/white"
+        app:textColor="#969696"
+        app:backgroundColor="#bef9b81b"
+        app:textSize="10sp"
+        app:hintTextSize="32sp"
+        app:radius="20dp"
+        app:circleRadius="24dp"/>
+
+    <ImageView
+        android:layout_alignParentBottom="true"
+        android:id="@+id/fab"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="40dp"
+
+        app:srcCompat="@drawable/ic_person_add_black" />
+
+</RelativeLayout>

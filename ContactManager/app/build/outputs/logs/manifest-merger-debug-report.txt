@@ -1,0 +1,402 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/7f697143c0a5cc9921c2428c9079a9d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.wang.avi:library:1.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/df76f34a20eaef0e207a7f4d97f11ad7/AndroidManifest.xml:2:1-14:12
+MERGED from [:mvp] /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/mvp/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:sidebar] /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/sidebar/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.jude:swipebackhelper:3.1.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/swipebackhelper-3.1.2.aar/0f1aa92f2439a1aaccd453a57f4e06f7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.lxj:xpopup:1.8.7] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpopup-1.8.7.aar/9cb5525cdbd386957be08002ce406485/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/bfaab97717c6af86da8cb3fdcc158e5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.wuhenzhizao:titlebar:1.1.4] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/titlebar-1.1.4.aar/9453971257b510acdc777066f09e8b53/AndroidManifest.xml:2:1-17:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxlifecycle-components-2.0.1.aar/2d2653fbc4246f90fe5f7490814d1327/AndroidManifest.xml:13:1-19:12
+MERGED from [com.github.wangjiegulu:rfab:2.0.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rfab-2.0.0.aar/620773f424fc9a716889dd22e9394926/AndroidManifest.xml:2:1-11:12
+MERGED from [com.lxj:easyadapter:1.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easyadapter-1.1.1.aar/a313becc1a8e20b6eb43acd265960662/AndroidManifest.xml:2:1-11:12
+MERGED from [com.lxj:xpermission:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpermission-1.0.1.aar/2d1a186f74a7527c3c595180538b4f50/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0187f754d47039c0fcaab5ba11bccb36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.zzhoujay.richtext:richtext:3.0.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/richtext-3.0.8.aar/d0f82dbaa4c9ace9c735122955ccca69/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b3d1c925307dc845711b98ade2d34948/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.limedroid:ARecyclerView:v1.2.3] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/ARecyclerView-v1.2.3.aar/f75633d6fc3a960c92f7375395b43061/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/af1676b5218749ba7265114680ff86b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/2af780ed404521330d60902dfda2bff0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxbinding-2.0.0.aar/d4bf14deca0e0d5ca021af9cbd06a0d0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxlifecycle-android-2.0.1.aar/b41a46ef93d455ee3b8e1480c8beb52e/AndroidManifest.xml:13:1-19:12
+MERGED from [com.contrarywind:Android-PickerView:4.1.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/Android-PickerView-4.1.8.aar/1a3efccdc6d804154bc4096e5aa81ce5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/e61b3d58709296755fdd96fccaa54f3b/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2c2b57323fad60c71ac644e2252b2c26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/bb307793925c267ebbcff1a21b4d5a1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b7a5ceee7d83a0769127951933cac6d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/83c799772d9a1967cf27b5337fb7f8cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0344710b3918b4886aeef865db2f121d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/90c36944991178a7567820d41dd7f6eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6436ce77e2908b2354487f16649f91dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0c1a9a7cb54b575c8b1f0be01f37f215/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/4e9041c4458f079961ddf11e9e91673c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.contrarywind:wheelview:4.0.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/wheelview-4.0.9.aar/0b125fe22d65a28bbb627cfff2756b60/AndroidManifest.xml:2:1-11:12
+MERGED from [com.qmuiteam:qmui:1.1.5] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/qmui-1.1.5.aar/7dad1805b34c288f8d36d66c0855f325/AndroidManifest.xml:2:1-9:12
+MERGED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:2:1-35:12
+MERGED from [com.blankj:rxbus:1.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxbus-1.2.aar/4546f672cd75a8feb1e1f72b3f97ddb2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/dcc11ab1134b55cb6e674e43f3afaafd/AndroidManifest.xml:15:1-21:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.3] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.3.aar/a0c2c57e896d4dd94748c763e2508389/AndroidManifest.xml:2:1-13:12
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:2:1-50:12
+MERGED from [cn.bingoogolapple:bga-baseadapter:1.2.7] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-baseadapter-1.2.7.aar/d3daca8757a67827673495a63591efc3/AndroidManifest.xml:2:1-10:12
+MERGED from [pub.devrel:easypermissions:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.1.aar/419387a03e5bd9a32e3e314938db268c/AndroidManifest.xml:2:1-19:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.40] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.40.aar/bc1216c4e362a9863d3989c2707cca14/AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/068c30145f69e27198565b572594bd99/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.lygttpod:SuperTextView:2.2.4] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/SuperTextView-2.2.4.aar/2f31653b7740db24f1a303bafa3ac60a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.zzhoujay:html:1.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/html-1.0.2.aar/6d2c1e855b5eefe364778f7deba9dc94/AndroidManifest.xml:2:1-11:12
+MERGED from [com.youth.banner:banner:1.4.10] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/banner-1.4.10.aar/a39f143f039c230f556e21a6f489a83a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.limedroid:XStateController:v1.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/XStateController-v1.1.1.aar/dd2d1a60968d7a3bee77295b75228778/AndroidManifest.xml:2:1-17:12
+MERGED from [com.zzhoujay.markdown:markdown:1.0.5] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/markdown-1.0.5.aar/f67f1492b6a492269f279e26dbfba3c5/AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3b22d35c68356fbd0df2235c1abf27a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/50acd3c4838955a0df908a216677d7cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6ec45a8e70d99c380454beeef83de725/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb588f98c14636947b439c301f188efc/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:6:5-30:19
+MERGED from [com.wang.avi:library:1.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/df76f34a20eaef0e207a7f4d97f11ad7/AndroidManifest.xml:11:5-12:19
+MERGED from [com.wang.avi:library:1.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/df76f34a20eaef0e207a7f4d97f11ad7/AndroidManifest.xml:11:5-12:19
+MERGED from [:mvp] /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/mvp/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:mvp] /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/mvp/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:sidebar] /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/sidebar/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:sidebar] /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/sidebar/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.wuhenzhizao:titlebar:1.1.4] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/titlebar-1.1.4.aar/9453971257b510acdc777066f09e8b53/AndroidManifest.xml:11:5-15:19
+MERGED from [com.wuhenzhizao:titlebar:1.1.4] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/titlebar-1.1.4.aar/9453971257b510acdc777066f09e8b53/AndroidManifest.xml:11:5-15:19
+MERGED from [com.lxj:xpermission:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpermission-1.0.1.aar/2d1a186f74a7527c3c595180538b4f50/AndroidManifest.xml:11:5-20:19
+MERGED from [com.lxj:xpermission:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpermission-1.0.1.aar/2d1a186f74a7527c3c595180538b4f50/AndroidManifest.xml:11:5-20:19
+MERGED from [com.github.limedroid:ARecyclerView:v1.2.3] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/ARecyclerView-v1.2.3.aar/f75633d6fc3a960c92f7375395b43061/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.limedroid:ARecyclerView:v1.2.3] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/ARecyclerView-v1.2.3.aar/f75633d6fc3a960c92f7375395b43061/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/e61b3d58709296755fdd96fccaa54f3b/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/e61b3d58709296755fdd96fccaa54f3b/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/4e9041c4458f079961ddf11e9e91673c/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/4e9041c4458f079961ddf11e9e91673c/AndroidManifest.xml:9:5-20
+MERGED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:9:5-33:19
+MERGED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:9:5-33:19
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.3] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.3.aar/a0c2c57e896d4dd94748c763e2508389/AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.3] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.3.aar/a0c2c57e896d4dd94748c763e2508389/AndroidManifest.xml:11:5-20
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:13:5-48:19
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:13:5-48:19
+MERGED from [pub.devrel:easypermissions:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.1.aar/419387a03e5bd9a32e3e314938db268c/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.1.aar/419387a03e5bd9a32e3e314938db268c/AndroidManifest.xml:11:5-17:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/068c30145f69e27198565b572594bd99/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/068c30145f69e27198565b572594bd99/AndroidManifest.xml:9:5-20
+MERGED from [com.github.limedroid:XStateController:v1.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/XStateController-v1.1.1.aar/dd2d1a60968d7a3bee77295b75228778/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.limedroid:XStateController:v1.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/XStateController-v1.1.1.aar/dd2d1a60968d7a3bee77295b75228778/AndroidManifest.xml:11:5-15:19
+MERGED from [com.zzhoujay.markdown:markdown:1.0.5] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/markdown-1.0.5.aar/f67f1492b6a492269f279e26dbfba3c5/AndroidManifest.xml:12:5-20
+MERGED from [com.zzhoujay.markdown:markdown:1.0.5] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/markdown-1.0.5.aar/f67f1492b6a492269f279e26dbfba3c5/AndroidManifest.xml:12:5-20
+	android:supportsRtl
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:9:9-52
+	android:allowBackup
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:7:9-49
+activity#cn.projects.team.demo.ui.MainActivity
+ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:13:9-20:20
+	android:windowSoftInputMode
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:14:13-52
+	android:name
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:13:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:18:27-74
+activity#cn.projects.team.demo.ui.AddContactsActivity
+ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:21:9-22:54
+	android:windowSoftInputMode
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:22:13-52
+	android:name
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:21:19-78
+activity#cn.projects.team.demo.ui.ImportExportActivity
+ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:23:9-82
+	android:name
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:23:19-79
+activity#cn.projects.team.demo.ui.ContactGroupActivity
+ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:24:9-25:46
+	android:theme
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:24:19-79
+activity#cn.projects.team.demo.ui.AddContactGroupActivity
+ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:26:9-85
+	android:name
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:26:19-82
+activity#cn.projects.team.demo.ui.GroupContactActivity
+ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:27:9-121
+	android:windowSoftInputMode
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:27:80-119
+	android:name
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml:27:19-79
+uses-sdk
+INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/7f697143c0a5cc9921c2428c9079a9d0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/7f697143c0a5cc9921c2428c9079a9d0/AndroidManifest.xml:20:5-43
+MERGED from [com.wang.avi:library:1.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/df76f34a20eaef0e207a7f4d97f11ad7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:1.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/df76f34a20eaef0e207a7f4d97f11ad7/AndroidManifest.xml:7:5-9:41
+MERGED from [:mvp] /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/mvp/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:mvp] /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/mvp/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:sidebar] /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/sidebar/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:sidebar] /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/sidebar/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jude:swipebackhelper:3.1.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/swipebackhelper-3.1.2.aar/0f1aa92f2439a1aaccd453a57f4e06f7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jude:swipebackhelper:3.1.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/swipebackhelper-3.1.2.aar/0f1aa92f2439a1aaccd453a57f4e06f7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lxj:xpopup:1.8.7] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpopup-1.8.7.aar/9cb5525cdbd386957be08002ce406485/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lxj:xpopup:1.8.7] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpopup-1.8.7.aar/9cb5525cdbd386957be08002ce406485/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/bfaab97717c6af86da8cb3fdcc158e5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/bfaab97717c6af86da8cb3fdcc158e5e/AndroidManifest.xml:20:5-44
+MERGED from [com.wuhenzhizao:titlebar:1.1.4] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/titlebar-1.1.4.aar/9453971257b510acdc777066f09e8b53/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wuhenzhizao:titlebar:1.1.4] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/titlebar-1.1.4.aar/9453971257b510acdc777066f09e8b53/AndroidManifest.xml:7:5-9:41
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxlifecycle-components-2.0.1.aar/2d2653fbc4246f90fe5f7490814d1327/AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxlifecycle-components-2.0.1.aar/2d2653fbc4246f90fe5f7490814d1327/AndroidManifest.xml:17:5-44
+MERGED from [com.github.wangjiegulu:rfab:2.0.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rfab-2.0.0.aar/620773f424fc9a716889dd22e9394926/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wangjiegulu:rfab:2.0.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rfab-2.0.0.aar/620773f424fc9a716889dd22e9394926/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lxj:easyadapter:1.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easyadapter-1.1.1.aar/a313becc1a8e20b6eb43acd265960662/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lxj:easyadapter:1.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easyadapter-1.1.1.aar/a313becc1a8e20b6eb43acd265960662/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lxj:xpermission:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpermission-1.0.1.aar/2d1a186f74a7527c3c595180538b4f50/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lxj:xpermission:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpermission-1.0.1.aar/2d1a186f74a7527c3c595180538b4f50/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0187f754d47039c0fcaab5ba11bccb36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0187f754d47039c0fcaab5ba11bccb36/AndroidManifest.xml:20:5-44
+MERGED from [com.zzhoujay.richtext:richtext:3.0.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/richtext-3.0.8.aar/d0f82dbaa4c9ace9c735122955ccca69/AndroidManifest.xml:8:5-10:41
+MERGED from [com.zzhoujay.richtext:richtext:3.0.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/richtext-3.0.8.aar/d0f82dbaa4c9ace9c735122955ccca69/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b3d1c925307dc845711b98ade2d34948/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b3d1c925307dc845711b98ade2d34948/AndroidManifest.xml:20:5-44
+MERGED from [com.github.limedroid:ARecyclerView:v1.2.3] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/ARecyclerView-v1.2.3.aar/f75633d6fc3a960c92f7375395b43061/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.limedroid:ARecyclerView:v1.2.3] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/ARecyclerView-v1.2.3.aar/f75633d6fc3a960c92f7375395b43061/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/af1676b5218749ba7265114680ff86b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/af1676b5218749ba7265114680ff86b8/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/2af780ed404521330d60902dfda2bff0/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/2af780ed404521330d60902dfda2bff0/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxbinding-2.0.0.aar/d4bf14deca0e0d5ca021af9cbd06a0d0/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxbinding-2.0.0.aar/d4bf14deca0e0d5ca021af9cbd06a0d0/AndroidManifest.xml:6:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxlifecycle-android-2.0.1.aar/b41a46ef93d455ee3b8e1480c8beb52e/AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxlifecycle-android-2.0.1.aar/b41a46ef93d455ee3b8e1480c8beb52e/AndroidManifest.xml:17:5-44
+MERGED from [com.contrarywind:Android-PickerView:4.1.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/Android-PickerView-4.1.8.aar/1a3efccdc6d804154bc4096e5aa81ce5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.contrarywind:Android-PickerView:4.1.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/Android-PickerView-4.1.8.aar/1a3efccdc6d804154bc4096e5aa81ce5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/e61b3d58709296755fdd96fccaa54f3b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/e61b3d58709296755fdd96fccaa54f3b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2c2b57323fad60c71ac644e2252b2c26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2c2b57323fad60c71ac644e2252b2c26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/bb307793925c267ebbcff1a21b4d5a1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/bb307793925c267ebbcff1a21b4d5a1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b7a5ceee7d83a0769127951933cac6d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b7a5ceee7d83a0769127951933cac6d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/83c799772d9a1967cf27b5337fb7f8cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/83c799772d9a1967cf27b5337fb7f8cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0344710b3918b4886aeef865db2f121d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0344710b3918b4886aeef865db2f121d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/90c36944991178a7567820d41dd7f6eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/90c36944991178a7567820d41dd7f6eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6436ce77e2908b2354487f16649f91dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6436ce77e2908b2354487f16649f91dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0c1a9a7cb54b575c8b1f0be01f37f215/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0c1a9a7cb54b575c8b1f0be01f37f215/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/4e9041c4458f079961ddf11e9e91673c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/4e9041c4458f079961ddf11e9e91673c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.contrarywind:wheelview:4.0.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/wheelview-4.0.9.aar/0b125fe22d65a28bbb627cfff2756b60/AndroidManifest.xml:7:5-9:41
+MERGED from [com.contrarywind:wheelview:4.0.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/wheelview-4.0.9.aar/0b125fe22d65a28bbb627cfff2756b60/AndroidManifest.xml:7:5-9:41
+MERGED from [com.qmuiteam:qmui:1.1.5] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/qmui-1.1.5.aar/7dad1805b34c288f8d36d66c0855f325/AndroidManifest.xml:5:5-7:41
+MERGED from [com.qmuiteam:qmui:1.1.5] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/qmui-1.1.5.aar/7dad1805b34c288f8d36d66c0855f325/AndroidManifest.xml:5:5-7:41
+MERGED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:7:5-44
+MERGED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:7:5-44
+MERGED from [com.blankj:rxbus:1.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxbus-1.2.aar/4546f672cd75a8feb1e1f72b3f97ddb2/AndroidManifest.xml:7:5-44
+MERGED from [com.blankj:rxbus:1.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxbus-1.2.aar/4546f672cd75a8feb1e1f72b3f97ddb2/AndroidManifest.xml:7:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/dcc11ab1134b55cb6e674e43f3afaafd/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/dcc11ab1134b55cb6e674e43f3afaafd/AndroidManifest.xml:19:5-43
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.3] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.3.aar/a0c2c57e896d4dd94748c763e2508389/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.3] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.3.aar/a0c2c57e896d4dd94748c763e2508389/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:5:5-7:41
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:5:5-7:41
+MERGED from [cn.bingoogolapple:bga-baseadapter:1.2.7] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-baseadapter-1.2.7.aar/d3daca8757a67827673495a63591efc3/AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-baseadapter:1.2.7] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-baseadapter-1.2.7.aar/d3daca8757a67827673495a63591efc3/AndroidManifest.xml:6:5-8:41
+MERGED from [pub.devrel:easypermissions:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.1.aar/419387a03e5bd9a32e3e314938db268c/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.1.aar/419387a03e5bd9a32e3e314938db268c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.40] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.40.aar/bc1216c4e362a9863d3989c2707cca14/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.40] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.40.aar/bc1216c4e362a9863d3989c2707cca14/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/068c30145f69e27198565b572594bd99/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/068c30145f69e27198565b572594bd99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.lygttpod:SuperTextView:2.2.4] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/SuperTextView-2.2.4.aar/2f31653b7740db24f1a303bafa3ac60a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lygttpod:SuperTextView:2.2.4] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/SuperTextView-2.2.4.aar/2f31653b7740db24f1a303bafa3ac60a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zzhoujay:html:1.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/html-1.0.2.aar/6d2c1e855b5eefe364778f7deba9dc94/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zzhoujay:html:1.0.2] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/html-1.0.2.aar/6d2c1e855b5eefe364778f7deba9dc94/AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.10] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/banner-1.4.10.aar/a39f143f039c230f556e21a6f489a83a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.10] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/banner-1.4.10.aar/a39f143f039c230f556e21a6f489a83a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.limedroid:XStateController:v1.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/XStateController-v1.1.1.aar/dd2d1a60968d7a3bee77295b75228778/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.limedroid:XStateController:v1.1.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/XStateController-v1.1.1.aar/dd2d1a60968d7a3bee77295b75228778/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zzhoujay.markdown:markdown:1.0.5] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/markdown-1.0.5.aar/f67f1492b6a492269f279e26dbfba3c5/AndroidManifest.xml:8:5-10:41
+MERGED from [com.zzhoujay.markdown:markdown:1.0.5] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/markdown-1.0.5.aar/f67f1492b6a492269f279e26dbfba3c5/AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3b22d35c68356fbd0df2235c1abf27a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3b22d35c68356fbd0df2235c1abf27a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/50acd3c4838955a0df908a216677d7cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/50acd3c4838955a0df908a216677d7cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6ec45a8e70d99c380454beeef83de725/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6ec45a8e70d99c380454beeef83de725/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb588f98c14636947b439c301f188efc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb588f98c14636947b439c301f188efc/AndroidManifest.xml:20:5-44
+INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/src/main/AndroidManifest.xml
+meta-data#android.notch_support
+ADDED from [com.lxj:xpermission:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpermission-1.0.1.aar/2d1a186f74a7527c3c595180538b4f50/AndroidManifest.xml:12:9-14:36
+	android:value
+		ADDED from [com.lxj:xpermission:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpermission-1.0.1.aar/2d1a186f74a7527c3c595180538b4f50/AndroidManifest.xml:14:13-33
+	android:name
+		ADDED from [com.lxj:xpermission:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpermission-1.0.1.aar/2d1a186f74a7527c3c595180538b4f50/AndroidManifest.xml:13:13-49
+activity#com.lxj.xpermission.XPermission$PermissionActivity
+ADDED from [com.lxj:xpermission:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpermission-1.0.1.aar/2d1a186f74a7527c3c595180538b4f50/AndroidManifest.xml:17:9-19:75
+	android:theme
+		ADDED from [com.lxj:xpermission:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpermission-1.0.1.aar/2d1a186f74a7527c3c595180538b4f50/AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [com.lxj:xpermission:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpermission-1.0.1.aar/2d1a186f74a7527c3c595180538b4f50/AndroidManifest.xml:18:13-78
+activity#com.blankj.utilcode.util.PermissionUtils$PermissionActivity
+ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:10:9-15:75
+	android:multiprocess
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:13:13-40
+	android:windowSoftInputMode
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:15:13-72
+	android:configChanges
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:12:13-74
+	android:theme
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:14:13-55
+	android:name
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:11:13-87
+provider#com.blankj.utilcode.util.Utils$FileProvider4UtilCode
+ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:17:9-26:20
+	android:grantUriPermissions
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:21:13-47
+	android:authorities
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:19:13-69
+	android:multiprocess
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:22:13-40
+	android:exported
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:18:13-80
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:23:13-25:68
+	android:resource
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:25:17-65
+	android:name
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:24:17-67
+service#com.blankj.utilcode.util.MessengerUtils$ServerService
+ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:28:9-32:19
+	android:name
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:28:18-86
+intent-filter#action:name:${applicationId}.messenger
+ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:29:13-31:29
+intent-filter#action:name:cn.projects.team.demo.messenger
+ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:29:13-31:29
+action#${applicationId}.messenger
+ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:30:25-66
+action#cn.projects.team.demo.messenger
+ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from [com.blankj:utilcode:1.25.9] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/utilcode-1.25.9.aar/ef275c3e4bf2755d8cee3138c40193dd/AndroidManifest.xml:30:25-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.CAMERA
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:11:22-62
+activity#cn.bingoogolapple.photopicker.activity.BGAPhotoPreviewActivity
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:16:9-21:63
+	android:screenOrientation
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:19:13-49
+	android:windowSoftInputMode
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:21:13-60
+	android:configChanges
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:18:13-74
+	android:theme
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:20:13-46
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:17:13-90
+activity#cn.bingoogolapple.photopicker.activity.BGAPhotoPickerActivity
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:24:9-29:63
+	android:screenOrientation
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:27:13-49
+	android:windowSoftInputMode
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:29:13-60
+	android:configChanges
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:26:13-74
+	android:theme
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:28:13-46
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:25:13-89
+activity#cn.bingoogolapple.photopicker.activity.BGAPhotoPickerPreviewActivity
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:32:9-37:63
+	android:screenOrientation
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:35:13-49
+	android:windowSoftInputMode
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:37:13-60
+	android:configChanges
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:34:13-74
+	android:theme
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:36:13-46
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:33:13-96
+provider#cn.bingoogolapple.photopicker.util.BGAPhotoFileProvider
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:39:9-47:20
+	android:grantUriPermissions
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:43:13-47
+	android:authorities
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:41:13-82
+	android:exported
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.8] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/bga-photopicker-1.2.8.aar/13f076affac40434b5e7a86dbb6b1f31/AndroidManifest.xml:40:13-83
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.1.aar/419387a03e5bd9a32e3e314938db268c/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.1.aar/419387a03e5bd9a32e3e314938db268c/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.1.aar/419387a03e5bd9a32e3e314938db268c/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.1.aar/419387a03e5bd9a32e3e314938db268c/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.0.1] /Users/SuperNature/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.1.aar/419387a03e5bd9a32e3e314938db268c/AndroidManifest.xml:13:13-86

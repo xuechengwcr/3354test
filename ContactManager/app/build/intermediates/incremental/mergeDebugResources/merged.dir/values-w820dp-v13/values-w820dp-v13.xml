@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <declare-styleable name="PopSpinnerView">
+        <!--默认显示的文字-->
+        <attr format="string" name="textName"/>
+
+        <!--弹窗的宽度-->
+        <attr format="integer" name="popWidth"/>
+
+        <!--左边绘图-->
+        <attr format="reference" name="LeftImageDrawable"/>
+
+        <!--右边绘图-->
+        <attr format="reference" name="RightImageDrawable"/>
+    </declare-styleable>
+</resources>

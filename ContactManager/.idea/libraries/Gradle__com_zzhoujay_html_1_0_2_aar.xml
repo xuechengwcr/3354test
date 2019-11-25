@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zzhoujay:html:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/html-1.0.2.aar/6d2c1e855b5eefe364778f7deba9dc94/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/html-1.0.2.aar/6d2c1e855b5eefe364778f7deba9dc94/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zzhoujay/html/1.0.2/7638d98178cd364b7f1665c901f28a8e4c81935d/html-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

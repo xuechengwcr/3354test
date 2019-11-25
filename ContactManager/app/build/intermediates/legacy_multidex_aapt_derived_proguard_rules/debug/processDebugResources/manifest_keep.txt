@@ -1,0 +1,2 @@
+# Referenced at /Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:15
+-keep class cn.projects.team.demo.App { <init>(); }
