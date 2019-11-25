@@ -1,4 +1,4 @@
-#Mon Nov 25 00:01:44 CST 2019
+#Mon Nov 25 00:26:13 CST 2019
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -11,8 +11,8 @@ base.5=/Users/SuperNature/3354test/ContactManager/app/build/intermediates/transf
 base.4=/Users/SuperNature/3354test/ContactManager/app/build/intermediates/transforms/dexMerger/debug/4
 base.3=/Users/SuperNature/3354test/ContactManager/app/build/intermediates/transforms/dexMerger/debug/2
 base.2=/Users/SuperNature/3354test/ContactManager/app/build/intermediates/transforms/dexMerger/debug/5
-base.1=/Users/SuperNature/3354test/ContactManager/app/build/intermediates/transforms/dexMerger/debug/0
-base.0=/Users/SuperNature/3354test/ContactManager/app/build/intermediates/transforms/dexMerger/debug/3
+base.1=/Users/SuperNature/3354test/ContactManager/app/build/intermediates/transforms/dexMerger/debug/3
+base.0=/Users/SuperNature/3354test/ContactManager/app/build/intermediates/transforms/dexMerger/debug/0
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex
