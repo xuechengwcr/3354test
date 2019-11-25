@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "/Users/SuperNature/3354test/ContactManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
                     "source": "/Users/SuperNature/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0187f754d47039c0fcaab5ba11bccb36/res/values-port/values-port.xml",

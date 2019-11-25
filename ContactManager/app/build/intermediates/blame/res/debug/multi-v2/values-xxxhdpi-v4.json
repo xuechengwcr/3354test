@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
+            "outputFile": "/Users/SuperNature/3354test/ContactManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/sidebar/build/intermediates/packaged_res/debug/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
+                    "source": "/Users/SuperNature/3354test/ContactManager/sidebar/build/intermediates/packaged_res/debug/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+            "outputFile": "/Users/SuperNature/3354test/ContactManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
             "map": [
                 {
                     "source": "/Users/SuperNature/.gradle/caches/transforms-1/files-1.1/xpopup-1.8.7.aar/9cb5525cdbd386957be08002ce406485/res/values-en/values-en.xml",

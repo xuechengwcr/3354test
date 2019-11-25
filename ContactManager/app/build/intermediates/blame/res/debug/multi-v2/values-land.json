@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/SuperNature/GoogleDrive-Xue/Android/ContactManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/SuperNature/3354test/ContactManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/SuperNature/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/bfaab97717c6af86da8cb3fdcc158e5e/res/values-land/values-land.xml",
